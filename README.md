@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Now.
+I'm currently a telecommunications technician in the electrical field, and I sometimes develop scripts for network equipment. I'm training to become a data engineer.
 <!--tech stack icons-->
 <h2 >Techs👨🏻‍💻</h2>
 <p align="left">
