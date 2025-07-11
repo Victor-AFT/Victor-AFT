@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,anaconda,aws,cpp,discord,docker,git,github,gitlab,kali,mint,mysql,py,qt,raspberrypi,sqlite,ubuntu,windows,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,anaconda,aws,cpp,discord,docker,git,github,gitlab,kali,mint,mysql,py,qt,raspberrypi,sqlite,ubuntu,windows&perline=12" />
   </a>
 </p>
 <br>
