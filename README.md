@@ -3,21 +3,16 @@
 </h1>
 
 
-
-
-### 📬 Find me at
-<!-------------------------->
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Victor-AFT/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-fuentes-toledo/)](https://www.linkedin.com/in/victor-fuentes-toledo)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vfuentestoledo@gmail.com)](mailto:vfuentestoledo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vfuentestoledo@gmail.com)](mailto:vfuentestoledo@gmail.com)![](https://komarev.com/ghpvc/?username=Victor-AFT&color=00a0a0&style=plastic)
 
+I have worked as a systems administrator for 4 years, a script programmer in cybersecurity OT for 2 years, and currently as a telecommunications technician OT in the electrical area.
+
+- 🔭 I’m currently working telecommunications technician in OT & DevOps
+- 🌱 I’m currently learning Data Enginneer
 <!--
 **Victor-AFT/Victor-AFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -25,8 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Now.
-I'm currently a telecommunications technician in the electrical field, and I sometimes develop scripts for network equipment. I'm training to become a data engineer.
 <!--tech stack icons-->
 <h2 >Techs👨🏻‍💻</h2>
 <p align="left">
@@ -36,5 +29,5 @@ I'm currently a telecommunications technician in the electrical field, and I som
 </p>
 <br>
 
-![](https://komarev.com/ghpvc/?username=Victor-AFT&color=00a0a0&style=plastic)
+
 
