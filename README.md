@@ -2,6 +2,9 @@
 <h1>I am <a href="https://github.com/Victor-AFT">Victor </a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
+
+
+
 ### 📬 Find me at
 <!-------------------------->
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Victor-AFT/) 
@@ -33,5 +36,5 @@ I'm currently a telecommunications technician in the electrical field, and I som
 </p>
 <br>
 
-
+![](https://komarev.com/ghpvc/?username=Victor-AFT&color=00a0a0&style=plastic)
 
