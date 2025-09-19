@@ -25,6 +25,10 @@ I'm currently a telecommunications technician in the electrical field, and I som
 </p>
 <br>
 
-## Let's Connect :handshake:
+### 📬 Find me at
 <!-------------------------->
-<a href="https://www.linkedin.com/in/victor-fuentes-toledo/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Victor-AFT/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-fuentes-toledo/)](https://www.linkedin.com/in/victor-fuentes-toledo)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vfuentestoledo@gmail.com)](mailto:vfuentestoledo@gmail.com)
+
+
