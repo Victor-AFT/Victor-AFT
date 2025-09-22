@@ -22,12 +22,26 @@ I have worked as a systems administrator for 4 years,  cybersecurity OT for 2 ye
 -->
 <!--tech stack icons-->
 <h2 >Techs👨🏻‍💻</h2>
-<p align="left">
+
+<p align="center">
+  SysAdmin:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,anaconda,aws,cpp,discord,docker,git,github,gitlab,kali,mint,mysql,py,qt,raspberrypi,sqlite,ubuntu,windows&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,kali,mind,ubuntu,debian,docker,raspberrypi,windows" />
   </a>
 </p>
-<br>
+<p align="center">
+  Develop:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,cpp,git,github,gitlab,mysql,py,qt,sqlite" />
+  </a>
+</p>
+<p align="center">
+  Learning: :
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,elasticsearch,kubernetes" />
+  </a>
+</p>
+
 
 
 
