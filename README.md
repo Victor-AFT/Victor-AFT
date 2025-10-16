@@ -6,6 +6,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Victor-AFT/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-fuentes-toledo/)](https://www.linkedin.com/in/victor-fuentes-toledo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vfuentestoledo@gmail.com)](mailto:vfuentestoledo@gmail.com)![](https://komarev.com/ghpvc/?username=Victor-AFT&color=00a0a0&style=plastic)
+[![Kaggle Badge](https://www.kaggle.com/victoraft)
 
 I have worked as a systems administrator for 4 years,  cybersecurity OT for 2 years, and currently as a telecommunications technician OT
 
